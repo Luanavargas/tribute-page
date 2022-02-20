@@ -1,0 +1,127 @@
+body {
+    background-color: #2e3031;
+    font-family: 'Comfortaa', cursive;
+    margin: 0px;
+}
+h1 {
+    color: #a9a9a9;
+}
+#title {
+    display: flex;
+}
+#img-div {
+    height: 50%;
+    position: relative;
+    text-align: right;
+    width: 50%;
+    
+}
+#Hero-text {
+    color: #a9a9a9;
+    height: 50%;
+    margin-top: 25%;
+    padding-left: 50px;
+    text-align: center;
+    width: 50%;
+}
+#citacao {
+    font-family:'Dancing Script', cursive;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+}
+#img-caption {
+    background-color: #2e3031;
+    border-radius: 20px 0 0  ;
+    bottom: 0;
+    color: #a9a9a9;
+    margin: 0;
+    padding: 10px;
+    position: absolute;
+    right: 0;
+}
+#tribute-info {
+    background-color: #404242 ;
+    color: #a9a9a9;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+a {
+    color: aliceblue;
+}
+#biografia {
+    text-align: center;
+}
+.font-texto {
+    font-family: 'Comfortaa', cursive;
+}
+#biografia{
+    margin: 50px;
+}
+#info-pessoal {
+    font-size: 14px;
+}
+#dados {
+    margin-top: 20px; 
+}
+#box1 {
+    text-align: center;  
+}
+#discografia {
+    height: 5px;
+    margin: 50px;
+}
+.discografia {
+    display: grid;
+    font-size: 14px;
+    grid-gap: 90px;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 400px 400px;
+    padding-top: 50px;
+}
+span {
+    color: whitesmoke;
+}
+.container {
+    margin: 0 auto;
+    max-width: 1100px;
+}
+.img-disco{
+    width: 300px;
+    margin-top: 20px;
+}
+.pa6 {
+    height: 15px;
+}
+#box2 {
+    background-color: #2e3031 ;
+    text-align: center;
+}
+#filmografia {
+    padding: 50px;
+}
+.filmografia {
+    text-align: justify;
+    padding-bottom: 50px;
+}
+li {
+    margin-bottom: 10px;
+    font-size: 16px;   
+}
+footer{
+    background-color: #404242;
+    color: #a9a9a9;
+    font-size: 14px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.coracao {
+    width: 10px;
+}
+#luanavargas {
+    font-family:'Dancing Script', cursive;
+    font-size: 16px;
+}
